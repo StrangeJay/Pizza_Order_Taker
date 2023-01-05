@@ -73,3 +73,5 @@ elif size == "L":
             print(f"Your final bill is: ${Bill}.")
     else:
         print(f"Your final bill is: ${Bill}.")
+else:
+    print("Size doesn't exist")
